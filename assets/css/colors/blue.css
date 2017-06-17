@@ -1,0 +1,229 @@
+a:focus {
+	color: #00a4e4;
+}
+.spliter {
+	background: #00a4e4;
+}
+.yellow-btn {
+	background: #00a4e4;
+}
+.invert-btn {
+	border: 1px solid #00a4e4 !important;
+}
+.c-btn:hover,
+.mask .c-btn:hover {
+	color: #00a4e4;
+}
+/* ---------------------------------- INNER PAGE SECTION -------------------------------- */
+.page-content-wrapper .blog-post-holder a.readmore {
+	background: #00a4e4 none repeat scroll 0 0;
+}
+.page-content-wrapper a.with-arrow-btn {
+	background: #00a4e4;
+}
+.page-content-wrapper a.with-arrow-btn:hover {
+	color: #00a4e4;
+}
+.with-arrow-btn:hover span i {
+	color: #00a4e4;
+}
+.small-services:hover .gray-background {
+	border: 5px solid #00a4e4;
+}
+.small-services:hover i {
+	color: #00a4e4;
+}
+.page-content .contact-holder, .page-content .contact-holder span, .page-content .contact-holder .detail-holder i {
+	color: #00a4e4;
+}
+.page-content .contact-holder .left-detail .spliter {
+	background: #00a4e4;
+}
+.page-content .contact-holder input[type=submit]:hover {
+	background: #00a4e4;
+	border: 1px solid #00a4e4;
+}
+.page-content .contact-page-ops span.spliter {
+	background: #00a4e4;
+}
+.services-list li a:hover, .services-list li.active a {
+	color: #00a4e4 !important;
+}
+.testi-author-meta img {
+	border: 2px solid #00a4e4;
+}
+/* ---------------------------------- PAGINATION -------------------------------- */
+.pagination ul li a {
+	background: #00a4e4;
+}
+/* ---------------------------------- PRELOADER -------------------------------- */
+.loader-line-wrap:nth-child(1) .loader-line {
+	border-color: #00a4e4;
+}
+.loader-line-wrap:nth-child(3) .loader-line {
+	border-color: #00a4e4;
+}
+.loader-line-wrap:nth-child(5) .loader-line {
+	border-color: #00a4e4;
+}
+/* ---------------------------------- TOP BAR ---------------------------------- */
+.top-bar {
+	background: #00a4e4;
+}
+/* ---------------------------------- HEADER ---------------------------------- */
+.slider-wrapper header.sticky {
+	border-bottom: 4px solid #00a4e4;
+}
+.slider-wrapper header nav.main-nav > ul > li:hover > a,
+.slider-wrapper header nav.main-nav ul li ul li a:hover,
+.slider-wrapper header nav.main-nav > ul > li.active > a {
+	background: #00a4e4;
+}
+.slider-wrapper header.sticky .right-menu .cd-primary-nav-trigger .cd-menu-icon,  .slider-wrapper header.sticky .right-menu .cd-primary-nav-trigger .cd-menu-icon::before,  .slider-wrapper header.sticky .right-menu .cd-primary-nav-trigger .cd-menu-icon:after {
+	background-color: #00a4e4;
+}
+.slider-wrapper .rider-slider a {
+	background: #00a4e4;
+}
+/* ---------------------------------- ABOUT US SECTION ---------------------------------- */
+.section-wrapper .heding-wrapper span, .section-wrapper .container .heding-wrapper span {
+	color: #00a4e4;
+}
+.box-link a:hover .icon-center span {
+	color: #00a4e4;
+}
+.box-link a:hover .icon-center h3 {
+	color: #00a4e4;
+}
+.box-link a:hover .icon-center {
+	border-color: #00a4e4;
+}
+.section-wrapper .heding-wrapper a:hover {
+	color: #00a4e4;
+}
+.responsive-banner {
+	background: #00a4e4;
+}
+.about-box span i {
+	color: #00a4e4;
+}
+/* ---------------------------------- FEATURES SECTION -------------------------------- */
+.box-link a:hover .feature-icon {
+	color: #00a4e4;
+}
+.box-link a:hover .feature-text h3 {
+	color: #00a4e4;
+}
+/* ---------------------------------- EXPERENCES SECTION -------------------------------- */
+.yellow-background {
+	background: #00a4e4;
+}
+.more-about a {
+	border: 1px solid #00a4e4;
+}
+.more-about a:hover {
+	color: #00a4e4 !important;
+}
+/* ---------------------------------- SKILLS ---------------------------------- */
+.wahtwedo-tabs-bg {
+	background: #00a4e4;
+}
+/* ---------------------------------- SERVICES SECTION ---------------------------------- */
+#services .info {
+	background-color: rgba(0, 164, 228, 0.93);
+}
+/* ---------------------------------- PORTFOLIO SECTION ---------------------------------- */
+.portfolio-wrapper ul li.active a {
+	color: #00a4e4;
+}
+.portfolio-wrapper #portfolio-list .portfolio-holder a.fancybox, .portfolio-wrapper #portfolio-list .portfolio-holder a.fancybox:hover {
+	background: #00a4e4;
+}
+/* ---------------------------------- TEAM SECTION ---------------------------------- */
+.team-holder a i {
+	color: #00a4e4;
+}
+.team-holder:hover .spliter {
+	width: 70px;
+	background: #00a4e4;
+}
+.team-box a i:hover {
+	color: #00a4e4;
+}
+/* ---------------------------------- TESTMONIALS SECTION ---------------------------------- */
+.testimonial-wrapper h2 {
+	color: #00a4e4;
+}
+/* ---------------------------------- PRICE SECTION ---------------------------------- */
+.big-wrapper:hover a {
+	background: #00a4e4;
+	border: 1px solid #00a4e4;
+}
+/* ---------------------------------- BLOG SECTION ---------------------------------- */
+.blog-content:hover .img-holder .author span {
+	background: #00a4e4;
+}
+.blog-content h4 a {
+	color: #00a4e4;
+}
+/* ---------------------------------- CONTACT SECTION ---------------------------------- */
+.contact-holder input[type=submit]:hover {
+	background: #00a4e4;
+	border: 2px solid #00a4e4;
+}
+/* ---------------------------------- FOOTER SECTION ---------------------------------- */
+footer a:hover {
+	color: #00a4e4;
+}
+footer .footer-left ul li a:hover {
+	background: #00a4e4;
+}
+.botton-bar a:hover {
+	color: #00a4e4;
+}
+/* ---------------------------------- SCROLL TO TOP ---------------------------------- */
+.scrollToTop {
+	border: 5px solid #00a4e4;
+}
+.scrollToTop:hover {
+	background: #00a4e4;
+}
+/*********************************** tabber *****************************************/
+.border-left {
+	border-left: 1px solid #00a4e4;
+}
+/* ===== about us page styling here ======== */
+.abou-skills {
+	background: #00a4e4;
+}
+/* ======= blog page start here ========= */
+.page-content-wrapper .blog-post-holder .meta-item a:hover {
+	color: #00a4e4;
+}
+.page-content-wrapper .blog-post-holder h1 a:hover {
+	color: #00a4e4;
+}
+/* ========  index main page for selection temlate section =========== */
+.indx-h2 a:hover {
+	color: #00a4e4;
+}
+/*------- Just Navigation ----------- */
+@media (min-width:320px) and (max-width:1024px) {
+.cd-primary-nav a:hover,
+.cd-primary-nav .active a {
+	background: #00a4e4;
+}
+}
+/* ===== PLAGINS COLORS ===== */
+.view-fourth .mask {
+	background-color: #00a4e4 !important;
+}
+
+.ms-skin-black-2 .ms-nav-next,
+.ms-skin-black-2 .ms-nav-prev {
+	background-color: #00a4e4 !important;
+}
+
+.cd-primary-nav-trigger .cd-menu-icon.is-clicked::before, .cd-primary-nav-trigger .cd-menu-icon.is-clicked::after {
+    background-color: #00a4e4;
+}
